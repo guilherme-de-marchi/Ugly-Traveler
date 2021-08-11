@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='Ugly Traveler',
-    version='0.0.0',
+    version='v0.0.0-alpha',
     description='A Path Finder System',
     author='Guilherme de Marchi',
     author_email='guilhermedemarchi13@gmail.com',
